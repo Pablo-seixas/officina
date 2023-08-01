@@ -1,0 +1,35 @@
+Descrição do Projeto: Modelagem e Implementação de Banco de Dados para Oficina
+Introdução
+Este projeto tem como objetivo criar o esquema lógico de um banco de dados para uma oficina automotiva, bem como realizar sua implementação, permitindo o armazenamento e gerenciamento de informações relevantes para o funcionamento da oficina. A modelagem do banco de dados será baseada no esquema conceitual desenvolvido no desafio do módulo de modelagem de Banco de Dados com modelo Entidade-Relacionamento (ER), porém com refinamentos específicos para atender ao contexto da oficina.
+
+Contexto da Oficina
+A oficina automotiva é um estabelecimento especializado em reparos e manutenções de veículos. Ela oferece uma variedade de serviços, como troca de óleo, revisões periódicas, reparos mecânicos, serviços elétricos, funilaria, pintura, entre outros. Além disso, a oficina também comercializa peças e acessórios para os clientes.
+
+Etapas do Projeto
+O projeto será desenvolvido em várias etapas:
+
+Refinamento do Esquema Conceitual: Utilizando o esquema conceitual criado previamente, será feita uma análise detalhada para ajustar e refinar o modelo, levando em consideração as particularidades do negócio da oficina e os requisitos específicos.
+
+Criação do Esquema Lógico: Com base no esquema conceitual refinado, será elaborado o esquema lógico do banco de dados. Serão definidas as tabelas, seus atributos, chaves primárias, chaves estrangeiras e restrições necessárias para representar as entidades e seus relacionamentos.
+
+Implementação do Banco de Dados: Será realizada a implementação do banco de dados utilizando um sistema de gerenciamento de banco de dados compatível, como MySQL, PostgreSQL, SQL Server, entre outros. Será criado um script SQL para criar todas as tabelas e estruturas necessárias no banco de dados.
+
+População do Banco de Dados: Dados de exemplo serão inseridos nas tabelas do banco de dados para permitir a realização de testes e demonstrações do funcionamento do sistema.
+
+Consultas SQL: Serão elaboradas consultas SQL para realizar testes e obter informações relevantes do banco de dados. As consultas abordarão cenários práticos da oficina, como listagem de clientes, serviços prestados, estoque de peças, relacionamento entre funcionários e ordens de serviço, entre outros.
+
+Entregáveis
+Os principais entregáveis do projeto são:
+
+Esquema Conceitual Refinado: Documentação contendo todas as entidades, relacionamentos e atributos relevantes para a oficina, com os refinamentos realizados a partir da análise do negócio.
+
+Esquema Lógico do Banco de Dados: Definição detalhada das tabelas, chaves primárias, chaves estrangeiras e restrições, fornecendo uma visão completa da estrutura do banco de dados.
+
+Script SQL para Criação do Banco de Dados: Código SQL contendo as instruções para criar todas as tabelas e estruturas no sistema de gerenciamento de banco de dados selecionado.
+
+Banco de Dados Implementado: O banco de dados será implementado em um sistema de gerenciamento de banco de dados, garantindo a persistência das informações e a funcionalidade do sistema.
+
+Conjunto de Consultas SQL: Queries SQL relevantes para a oficina, demonstrando a funcionalidade e o uso prático do banco de dados, com foco em consultas que auxiliem na gestão das operações da oficina.
+
+Conclusão
+Este projeto permitirá aplicar os conhecimentos de modelagem de Banco de Dados com modelo ER e esquema lógico em um cenário real de uma oficina automotiva. A criação do esquema lógico e a implementação do banco de dados proporcionarão uma estrutura sólida e funcional para o armazenamento de informações cruciais sobre clientes, serviços, peças, funcionários e outras operações da oficina. As consultas SQL desenvolvidas possibilitarão testar e validar a eficácia do banco de dados em lidar com as demandas específicas do negócio.
